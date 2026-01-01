@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">My name Maddula Neelaveni and I'm a passionate AI/ML Engineer from India.</h4>
+<h2 align="center">My name Maddula Neelaveni and I'm a passionate AI/ML Engineer from India.</h2>
 
 ###
 
