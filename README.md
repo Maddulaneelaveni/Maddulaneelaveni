@@ -93,28 +93,14 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 <!-- ================= -->
 <!-- GITHUB STATS -->
 <!-- ================= -->
-<h2 align="left">GitHub Stats</h2>
+## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Maddulaneelaveni&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Maddulaneelaveni&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddulaneelaveni&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maddulaneelaveni&layout=compact&theme=tokyonight)
+
 
 <!-- ================= -->
 <!-- FEATURED PROJECTS -->
