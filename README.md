@@ -1,26 +1,31 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #ff6a00, #ee0979, #00c6ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 800;
-    font-size: 42px;
-  ">
-    Welcome to My GitHub!!
-  </span>
-</h1>
+<!-- ===================== -->
+<!-- ANIMATED COLOR HEADER -->
+<!-- ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:ee0979,100:00c6ff&height=180&section=header&text=Welcome%20to%20My%20GitHub!!&fontSize=42&fontAlignY=35&animation=twinkling"
+    alt="Welcome Banner"
+  />
+</p>
 
+<!-- ================= -->
+<!-- TYPING ANIMATION -->
+<!-- ================= -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+from+India;Passionate+about+Data+%26+Algorithms;Building+Scalable+Machine+Learning+Solutions"
-    alt="Typing SVG"
+    alt="Typing Animation"
   />
 </p>
 
 <br clear="both">
 
-<h2 align="center">My name is Maddula Neelaveni and I'm a passionate AI/ML Engineer from India.</h2>
+<!-- INTRO -->
+<h2 align="center">
+  My name is Maddula Neelaveni and I'm a passionate AI/ML Engineer from India.
+</h2>
 
+<!-- ABOUT ME -->
 <h2 align="left">About me</h2>
 
 <p align="left">
@@ -37,6 +42,7 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 🎯 <b>Goal:</b> Grow as an AI/ML Engineer, strengthen DSA, and build scalable real-world solutions.
 </p>
 
+<!-- TECH STACK -->
 <h2 align="left">I code with</h2>
 
 <div align="left">
