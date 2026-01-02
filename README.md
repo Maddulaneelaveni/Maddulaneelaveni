@@ -4,6 +4,7 @@
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:ee0979,100:00c6ff&height=180&section=header&text=Welcome%20to%20My%20GitHub!!&fontSize=42&fontAlignY=35&animation=twinkling"
+    alt="Welcome Banner"
   />
 </p>
 
@@ -13,6 +14,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+from+India;Passionate+about+Data+%26+Algorithms;Building+Scalable+Machine+Learning+Solutions"
+    alt="Typing Animation"
   />
 </p>
 
@@ -33,12 +35,16 @@
 
 <br>
 
+<!-- ================= -->
 <!-- INTRO -->
+<!-- ================= -->
 <h2 align="center">
   My name is Maddula Neelaveni and I'm a passionate AI/ML Engineer from India.
 </h2>
 
+<!-- ================= -->
 <!-- ABOUT ME -->
+<!-- ================= -->
 <h2 align="left">About me</h2>
 
 <p align="left">
@@ -55,7 +61,9 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 🎯 <b>Goal:</b> Grow as an AI/ML Engineer, strengthen DSA, and build scalable real-world solutions.
 </p>
 
+<!-- ================= -->
 <!-- TECH STACK -->
+<!-- ================= -->
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -82,18 +90,35 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </div>
 
+<!-- ================= -->
 <!-- GITHUB STATS -->
+<!-- ================= -->
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=Maddulaneelaveni&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
-<!-- PROJECTS -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddulaneelaveni&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- ================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ================= -->
 <h2 align="left">Featured Projects</h2>
 
 <ul>
@@ -113,9 +138,12 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
   </li>
 </ul>
 
+<!-- ================= -->
 <!-- FOOTER -->
+<!-- ================= -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:ee0979,100:ff6a00&height=120&section=footer"
+    alt="Footer"
   />
 </p>
