@@ -95,20 +95,15 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-{{repos}}-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Active-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maddulaneelaveni&theme=github-dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Maddulaneelaveni?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Maddulaneelaveni?label=Total%20Stars&style=for-the-badge"/>
 </p>
 
----
-
-## 📈 Contribution Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maddulaneelaveni&theme=github_dark" />
-</p>
 
 
 
