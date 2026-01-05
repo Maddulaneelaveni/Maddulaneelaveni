@@ -95,17 +95,15 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 ## 📈 Contribution Summary
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Consistency-Daily%20Practice-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-Daily-orange?style=for-the-badge"/>
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maddulaneelaveni" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Maddulaneelaveni" />
 </p>
-
-
-
 
 <!-- ================= -->
 
