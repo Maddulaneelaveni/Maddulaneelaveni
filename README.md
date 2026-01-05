@@ -92,6 +92,10 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 
 <!-- ================= -->
 <!-- GITHUB STATS -->
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maddulaneelaveni&show_icons=true&count_private=true)
+
 <!-- ================= -->
 
 <!-- ================= -->
