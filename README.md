@@ -94,10 +94,13 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 <!-- GITHUB STATS -->
 ## 📈 Contribution Summary
 
+## 💻 Coding Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Consistency-Daily%20Practice-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-DSA%20Practice-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/GitHub-Daily%20Commits-black?style=for-the-badge&logo=github"/>
 </p>
+
 
 
 <!-- ================= -->
