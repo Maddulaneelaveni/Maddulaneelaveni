@@ -92,20 +92,12 @@ Currently focusing on strengthening Data Structures and Algorithms (DSA) to impr
 
 <!-- ================= -->
 <!-- GITHUB STATS -->
-## 📊 GitHub Dashboard
+## 📈 Contribution Summary
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-{{repos}}-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Profile%20Views-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Practice-orange?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Maddulaneelaveni?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Maddulaneelaveni?label=Total%20Stars&style=for-the-badge"/>
-</p>
-
-
-
 
 
 <!-- ================= -->
